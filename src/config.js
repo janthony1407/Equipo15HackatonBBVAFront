@@ -1,8 +1,8 @@
 export default {
   MAX_ATTACHMENT_SIZE: 5000000,
   s3: {
-    REGION: "us-east-1"//,
-    //BUCKET: "reppiloto"
+    REGION: "us-east-1",
+    BUCKET: "pe.appbbva"
   },
   /*apiGateway: {
     REGION: "us-east-1",
